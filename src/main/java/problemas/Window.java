@@ -37,16 +37,16 @@ public class Window extends javax.swing.JFrame {
     if(solAlcanzada) {
       if(!hayRepetidos) {
         javax.swing.JOptionPane.showMessageDialog(this, "Path to destination found\n\n" +
-              "path cost: " + rep.getCosteCamino() + "\n\n" +
-              "opened node count: " + rep.numNodosExpandidos + "\n" +
-              " (non-repeated)\n\n" + "generated node count: " + rep.numNodosGenerados +
+              "Path cost: " + rep.getCosteCamino() + "\n\n" +
+              "Opened node count: " + rep.numNodosExpandidos + "\n" +
+              " (non-repeated)\n\n" + "Generated node count: " + rep.numNodosGenerados +
               "\n (non-repeated)                 \n\n", "Processing finished",
               javax.swing.JOptionPane.INFORMATION_MESSAGE);
       } else {
-        javax.swing.JOptionPane.showMessageDialog(this, "       �meta!\n\n" +
-              "path cost: " + rep.getCosteCamino() + "\n\n" +
-              "opened node count: " + rep.numNodosExpandidos + "\n" +
-              "\ngenerated node count: " + rep.numNodosGenerados +
+        javax.swing.JOptionPane.showMessageDialog(this, "Path to destination found\n\n" +
+              "Path cost: " + rep.getCosteCamino() + "\n\n" +
+              "Opened node count: " + rep.numNodosExpandidos + "\n" +
+              "\nGenerated node count: " + rep.numNodosGenerados +
               "\n                                \n", "Processing finished",
               javax.swing.JOptionPane.INFORMATION_MESSAGE);
       }
