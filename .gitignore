@@ -4,3 +4,14 @@
 *.jar
 *.war
 *.ear
+/.idea/compiler.xml
+/.idea/copyright/profiles_settings.xml
+/.idea/encodings.xml
+/.idea/libraries/Maven__junit_junit_3_8_1.xml
+/.idea/libraries/Maven__net_java_dev_swing_layout_swing_layout_1_0_2.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/.name
+/.idea/scopes/scope_settings.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
