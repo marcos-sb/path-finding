@@ -38,5 +38,5 @@ The folder `path-finding` should have been created
 CONFIGURE EXECUTION
 -------------------
 Once the application is running, the user interface allows for defining a path to traverse and a method to visit intermediate nodes. The following screenshots show the basic GUI properties.
-![Configure Path-Finding](/docs/img1)
-![Traversing Path](/docs/img2)
+![Configure Path-Finding](docs/img1.png)
+![Traversing Path](docs/img2.png)
