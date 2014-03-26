@@ -31,12 +31,10 @@ The folder `path-finding` should have been created
 * Change directory to the one just created and maven install:  
 `cd path-finding && mvn install`  
 
-
-RUN
----
-
+* Finally, run it typing  
+`mvn exec:exec`  
 
 
 CONFIGURE EXECUTION
 -------------------
-
+Once the application is running, the user interface allows for defining a path to traverse and a method to visit intermediate nodes. The following screenshots show the basic GUI properties.
