@@ -106,7 +106,7 @@ public class Window extends javax.swing.JFrame {
             .addContainerGap())
             );
     
-    jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder("Recently open node | Open node list"));
+    jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder("Most recently opened node | Open node list"));
     jScrollPane2.setViewportView(jTree2);
     
     jCheckBox1.setText("Generate performance evaluation");
