@@ -7,7 +7,7 @@ Impossible numbers could be added to the path. Those represent numbers that cann
 Supported Algorithms
 --------------------
 * A*
-* Hill Climb
+* Hill Climbing
 * BFS
 
 Supported Heuristics
