@@ -110,7 +110,7 @@ public class Interfaz extends java.awt.Frame {
       }
     });
 
-    jRadioButton3.setText("Hill CLimb");
+    jRadioButton3.setText("Hill CLimbing");
     jRadioButton3.setMnemonic(3);
     jRadioButton3.setBorder(javax.swing.BorderFactory.createEmptyBorder(0, 0, 0, 0));
     jRadioButton3.setMargin(new java.awt.Insets(0, 0, 0, 0));
